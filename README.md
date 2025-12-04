@@ -1,4 +1,4 @@
-# PhishGuard - Enterprise Email Security Platform
+# 🛡️ PhishGuard - Enterprise Email Security Platform
 
 <div align="center">
 
@@ -1174,13 +1174,13 @@ Stay updated with the latest PhishGuard news and updates:
 
 *Demonstrating advanced cybersecurity engineering, full-stack development expertise, and production-ready software architecture.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-nwaizugbechukwuebuka-181717.svg?style=flat&logo=github)](https://github.com/nwaizugbechukwuebuka)
+[![GitHub](https://img.shields.io/badge/GitHub-nwaizugbechukwuebuka-181717.svg?style=flat&logo=github)](https://github.com/nwaizugbechukwuebuka/phishguard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/chukwuebuka-tobiloba-nwaizugbe/)
 
 
 **🛡️ PhishGuard: Where Email Security Meets Innovation**
 
 </div>
-#   p h i s h g u a r d  
- #   p h i s h g u a r d  
+
+ 
  
